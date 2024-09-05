@@ -5,6 +5,36 @@
 &emsp;[![Fine Tuning](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xxa9riSAd5FdPTrqTucbOPEoZZM5tWwQ#scrollTo=lPG7wEPetFx2)
 &emsp;&nbsp;&emsp;[![Evaluation Metric](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1twX0r6VzGl9RntyB0krfhW3T4nKzSX7e)
 
+### How to Run fine_tuning.ipynb on Google Colab
+
+1. *Open Google Colab*:
+   - Go to [Google Colab](https://colab.research.google.com/).
+   - upload the fine-tuning.ipynb on the colab
+
+2. *Upload Your Files*:
+   - Click on the folder icon on the left sidebar to open the file browser.
+   - Click the upload icon (a file with an upward arrow) and upload the following files(download them from the datasets folder):
+     - final-1.json
+     - final-2.json
+
+3. *Run the Notebook*:
+   - Run each cell.
+
+### How to Run evaluation_matrix.ipynb on Google Colab
+
+1. *Open Google Colab*:
+   - Go to [Google Colab](https://colab.research.google.com/).
+
+2. *Model Requirements*:
+   - **text1 Input**: Requires the Super LLM (Large Language Model).
+   - **text2 Input**: Requires the Fine-Tuned LLM.
+
+3. *Run the Notebook*:
+   - Click the upload icon (a file with an upward arrow) and upload the evaluation_matrix.ipynb file.
+   - Run each cell
+
+     
+
 ## ABSTRACT
 With rise in use of Large Language Models,
 privacy of individual/organisations remains an
