@@ -1,8 +1,9 @@
 # Peshwas-LLM
 - Name of the final model uploaded on huggingface - vedantneekhra/DO_I_Know_You__Hall-12
 ## Notebooks
+**Fine Tuning** | **Evaluation Metric** <br>
 &emsp;[![Fine Tuning](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xxa9riSAd5FdPTrqTucbOPEoZZM5tWwQ#scrollTo=lPG7wEPetFx2)
-&emsp;[![Evaluation Metric](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1twX0r6VzGl9RntyB0krfhW3T4nKzSX7e)
+&emsp;&nbsp;&emsp;[![Evaluation Metric](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1twX0r6VzGl9RntyB0krfhW3T4nKzSX7e)
 
 ## ABSTRACT
 With rise in use of Large Language Models,
